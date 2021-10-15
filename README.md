@@ -11,4 +11,4 @@ I  have designed the school website front end design using html, css, bootstrap
 <img src="assets/Screenshot (38).png">
 
 
-#### 'Thank You'
+<h3> Thank You</h3> 
